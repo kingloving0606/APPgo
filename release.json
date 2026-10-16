@@ -1,14 +1,14 @@
 {
   "_comment": "本文件是 APPgo 的『发布清单』。改这里并 push 到 main，GitHub Actions 会自动从 source_url 拉取安装包、校验 sha256/体积，然后创建对应 tag 的 Release 附件。所以下载地址永远不写死、也永远不需要手动上传大文件。",
-  "tag": "v2.4.8-36",
-  "name": "深秘TV 2.4.8 (build 36)",
-  "version_name": "2.4.8",
-  "version_code": 36,
-  "asset_name": "shenmi-tv-2.4.8-36-arm64.apk",
-  "source_url": "https://media.deepsea.mom/dl/shenmi-tv-2.4.8-36-arm64.apk",
-  "mirror_url": "https://deepsea.mom/dl/shenmi-tv-2.4.8-36-arm64.apk",
-  "sha256": "b150984fb31e001c85aa3b245df9c0a5ff01b5177fc57a0e38fca01c5ae041cf",
-  "size": 136094099,
+  "tag": "v2.4.9-37",
+  "name": "深秘TV 2.4.9 (build 37)",
+  "version_name": "2.4.9",
+  "version_code": 37,
+  "asset_name": "shenmi-tv-2.4.9-37-arm64.apk",
+  "source_url": "https://media.deepsea.mom/dl/shenmi-tv-2.4.9-37-arm64.apk",
+  "mirror_url": "https://deepsea.mom/dl/shenmi-tv-2.4.9-37-arm64.apk",
+  "sha256": "6f6e66c16983ff5975c752f5aa72f257a1fe09580efa82f924d34c281e44ef02",
+  "size": 136225178,
   "abi": "arm64-v8a",
   "min_android": "5.0"
 }
